@@ -1,0 +1,16 @@
+.back-styles {
+	height: 100vh;
+	font-family: Goudy Old Style;
+}
+
+.main-header {
+	font-size: 140px;
+}
+
+.bottom-container {
+	margin-top: 250px;
+}
+
+.bottom-header {
+	font-size: 30px;
+}
