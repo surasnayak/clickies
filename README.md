@@ -35,8 +35,8 @@ You will also see any lint errors in the console.
 
 ## Screenshots
 
-![Application Screenshot](/resources/screenshot/sc1.png)
-![Application Screenshot](/resources/screenshot/sc2.png)
+![Application Screenshot](/src/resources/screenshots/sc1.png)
+![Application Screenshot](/src/resources/screenshots/sc2.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
