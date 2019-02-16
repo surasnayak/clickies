@@ -12,6 +12,7 @@ const Gallery = () => {
 
 	return(
 		<div id="gallery">
+			<h3 className="card-styles f1 tracked tc light-red o-90 pa5">GALLERY</h3>
 			{imageCards}
 		</div>
 	);

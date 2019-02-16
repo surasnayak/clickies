@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Navigation from './Navigation';
 import Carousel from './Carousel';
 import Gallery from './Gallery';
+import Contributors from './Contributors';
 
 class App extends Component {
 
@@ -11,6 +12,7 @@ class App extends Component {
 				<Navigation />
 				<Carousel />
 				<Gallery />
+				<Contributors />
 			</div>
 		);
 	}
