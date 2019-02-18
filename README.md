@@ -21,6 +21,8 @@ npm
 
 ### Installing
 
+Do `cd clickies` to enter the working directory.
+
 Do `npm install` to install all the dependencies.
 
 ### Running
