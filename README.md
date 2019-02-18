@@ -2,6 +2,10 @@
 
 This is a simple react application to upload your images to clickies.
 
+## Before getting started
+
+The website is static with very few small database. There is no backend yet, but will be sooner or later. This application was created by me purely for learning purposes so it isn't very good but I would like to expand it and take it to the next level.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
